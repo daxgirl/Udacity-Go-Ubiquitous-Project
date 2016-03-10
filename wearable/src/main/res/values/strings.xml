@@ -1,0 +1,14 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Wearable</string>
+    <string name="my_digital_name">Sunshine</string>
+    <string name="format_temperature" translatable="false"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+    <string name="date_format" translatable="false">EEE, MMMM d</string>
+    <string name="time_format_single" translatable="false">%02d</string>
+    <string name="am" translatable="false">AM</string>
+    <string name="pm" translatable="false">PM</string>
+    <string name="time_format_full" translatable="false">%1$s:%2$s</string>
+    <string name="time_format_full_am_pm" translatable="false">%1$s:%2$s %3$s</string>
+    <string name="temp_format" translatable="false">%1$s %2$s</string>
+    <string name="weather_updated_toast">Weather updated!</string>
+    <string name="updating_weather_toast">Updating weather info…</string>
+</resources>
